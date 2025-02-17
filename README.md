@@ -52,10 +52,10 @@ Contributions are what make the open-source community such a powerful place to l
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Authors
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Your Name** - *Initial work* - [ibrahimm2106](https://github.com/ibrahimm2106)
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used

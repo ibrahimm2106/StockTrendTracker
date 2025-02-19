@@ -1,34 +1,91 @@
-tockTrendTracker Project Code of Conduct
+StockTrendTracker Community Participation Guidelines
 
-1. Introduction Welcome to the StockTrendTracker project, a Java-based web application that allows users to track and compare real-time stock prices. This project utilizes data from the Alpha Vantage API to provide accurate and up-to-date financial information. Our Code of Conduct is designed to support a creative and collaborative environment where all community members can work together harmoniously. This document outlines our expectations for participant behavior as well as the consequences for unacceptable actions.
+These guidelines are established to support a community where all participants should feel safe to contribute, innovate, and inspire others, irrespective of:
 
-2. Our Commitment In the pursuit of fostering an open and welcoming environment, we commit to making participation in our project and our community a harassment-free experience for everyone. This includes people of varying ages, body sizes, visible or invisible disabilities, ethnicities, genders, gender identities and expressions, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. We pledge to act and interact in ways that contribute to an inclusive, friendly, and safe community.
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- Caste
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+- Any other dimension of diversity
 
-3. Expected Behavior
+Version 1 – Updated February 19, 2025
 
-Inclusivity: Engage in behaviors that promote inclusivity and diversity, ensuring everyone feels welcome to contribute.
-Respectful Communication: Communicate effectively and respectfully with others, recognizing that constructive, respectful communication can bring about positive outcomes.
-Constructive Criticism: When offering or receiving feedback, remain thoughtful and focused on providing insight that fosters growth and learning.
-Collaboration: Emphasize collaboration over competition. Actively seek out opportunities to collaborate on projects and initiatives.
-Ethical Behavior: Maintain the highest standards of integrity by conducting oneself in an honest and ethical manner at all times.
-4. Unacceptable Behavior Unacceptable behaviors include but are not limited to:
+When and How to Use These Guidelines
 
-Harassment: Engaging in harassment in any form, including sexual harassment and bullying.
-Discrimination: Discriminatory behavior or comments related to gender, sexual orientation, race, religion, disability, or any other personal characteristics.
-Disruption: Intentionally disrupting discussions or other activities can hinder the project’s progress and is not tolerated.
-Privacy Breaches: Distributing, publishing, or threatening to disclose others' private information without their explicit permission.
-5. Our Responsibilities Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior. This may include mediation, removal of comments, or expulsion from the project and project-related forums.
+These guidelines outline the expected conduct for all members involved in the StockTrendTracker project. They are designed to complement our Anti-Harassment/Discrimination Policies, providing protections and a framework for behavior for all project contributors and stakeholders.
 
-6. Scope This Code of Conduct applies within all project spaces, including forums, mailing lists, code repositories, social media accounts, and public events. It also applies in private communications related to project activities, and when an individual is representing the project or its community in public spaces.
+Expected Behavior
 
-7. Enforcement Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project management team at [Contact Email]. All complaints will be reviewed and investigated promptly and discretion will be maintained. The project team is empowered to take appropriate actions including warnings, temporary bans, or permanent removal from the project and project-related spaces.
+All members of the StockTrendTracker community are expected to:
 
-8. Reporting Guidelines If you are subjected to or witness unacceptable behavior, or have any other concerns, please notify the project management as soon as possible. The report should include:
+Be Respectful
 
-Your contact information.
-A description of the incident.
-If possible, the approximate time and location of the incident.
-Identifying information (e.g., screenshots, names) of the individuals involved.
-9. Handling of Grievances If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the project leadership with a detailed description of your complaint. Your grievance will be handled in accordance with existing project governance procedures.
+Use respectful language and manners, consider different perspectives, and provide prompt and constructive feedback without personal attacks.
 
-10. Attribution This Code of Conduct is inspired by the Mozilla Community Participation Guidelines, adapted to fit the needs and nuances of the StockTrendTracker project
+Be Direct but Professional
+
+Express honest opinions about ideas presented; disagree respectfully, providing constructive criticism and alternative solutions where possible.
+
+Be Inclusive
+
+Engage diverse viewpoints actively and inclusively. Support and encourage underrepresented voices to share their ideas and perspectives.
+
+Understand Different Perspectives
+
+Approach discussions with an open mind, aiming to enhance and elevate ideas rather than dominate the conversation.
+
+Appreciate and Accommodate Diversity
+
+Recognize and respect personal and cultural differences which may be reflected in communication styles, work habits, or values. Strive to eliminate personal biases and consider the diverse needs of others.
+
+Behavior That Will Not Be Tolerated
+
+Violence and Threats of Violence
+
+No form of violence or threats will be tolerated, whether online or offline. This includes inciting violence or harm towards any individual or group.
+
+Personal Attacks
+
+Conflicts should remain professional and not escalate into personal or psychological attacks.
+
+Derogatory Language
+
+Language that discriminates or demeans an individual or a group on the basis of their characteristics will not be accepted. This includes intentional misgendering or use of derogatory terms based on any of the listed diversity aspects.
+
+Unwelcome Sexual Attention or Physical Contact
+
+No form of unwelcome sexual attention, jokes, or imagery is acceptable, nor is any unwanted physical contact.
+
+Disruptive Behavior
+
+Disruptions in meetings or other collaborative environments, including over-talking, non-constructive criticisms, or influence that breeds hostility, are not permitted.
+
+Consequences of Unacceptable Behavior
+
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. Violations may result in expulsion from the project and related forums, or in severe cases, legal action.
+
+Reporting
+
+If you observe or experience behavior contrary to these guidelines, report it to our community leads immediately to facilitate a prompt and effective resolution.
+
+How to report incidents
+
+Direct Reporting
+Contact the project team directly at [Contact Email]. Include details of the incident to enable appropriate actions.
+Community Participation Guidelines Response Lead: Serious incidents may require intervention from specialized resources, including legal counsel.
+
+Questions
+
+For any questions about these guidelines or reporting processes, please reach out via [ibrahimm23@roehampton.ac.uk].

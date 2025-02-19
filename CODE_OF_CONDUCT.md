@@ -28,64 +28,125 @@ These guidelines outline the expected conduct for all members involved in the St
 
 Expected behavior
 
+
+
 All members of the StockTrendTracker community are expected to:
+
+
 
 Be respectful
 
+
+
 Use respectful language and manners, consider different perspectives, and provide prompt and constructive feedback without personal attacks.
+
+
 
 Be direct but professional
 
+
+
 Express honest opinions about ideas presented; disagree respectfully, providing constructive criticism and alternative solutions where possible.
+
+
 
 Be inclusive
 
+
+
 Engage diverse viewpoints actively and inclusively. Support and encourage underrepresented voices to share their ideas and perspectives.
+
+
 
 Understand different perspectives
 
+
+
 Approach discussions with an open mind, aiming to enhance and elevate ideas rather than dominate the conversation.
+
+
 
 Appreciate and accomodate diversity
 
+
+
 Recognize and respect personal and cultural differences which may be reflected in communication styles, work habits, or values. Strive to eliminate personal biases and consider the diverse needs of others.
+
+
 
 Behavior that will not be tolerated
 
+
+
 Violence and threats of violence
+
+
 
 No form of violence or threats will be tolerated, whether online or offline. This includes inciting violence or harm towards any individual or group.
 
+
+
 Personal attacks
+
+
 
 Conflicts should remain professional and not escalate into personal or psychological attacks.
 
+
+
 Derogatory language
+
+
 
 Language that discriminates or demeans an individual or a group on the basis of their characteristics will not be accepted. This includes intentional misgendering or use of derogatory terms based on any of the listed diversity aspects.
 
+
+
 Unwelcome sexual attention or physical contact
+
+
 
 No form of unwelcome sexual attention, jokes, or imagery is acceptable, nor is any unwanted physical contact.
 
+
+
 Disruptive behavior
+
+
 
 Disruptions in meetings or other collaborative environments, including over-talking, non-constructive criticisms, or influence that breeds hostility, are not permitted.
 
+
+
 Consequences of unacceptable behavior
+
+
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. Violations may result in expulsion from the project and related forums, or in severe cases, legal action.
 
+
+
 Reporting
+
+
 
 If you observe or experience behavior contrary to these guidelines, report it to our community leads immediately to facilitate a prompt and effective resolution.
 
+
+
 How to report incidents
 
+
+
 Direct reporting
+
+
 Contact the project team directly at [mohamedmohamudibrahim05@gmail.com] Include details of the incident to enable appropriate actions.
 Community Participation Guidelines Response Lead: Serious incidents may require intervention from specialized resources, including legal counsel.
 
+
+
 Questions
+
 
 For any questions about these guidelines or reporting processes, please reach out via [mohamedmohmamudibrahim05@gmail.com].

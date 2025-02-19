@@ -124,7 +124,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License – see the LICENSE.md file for details.
 
 ## 👤 Author
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/ibrahimm2106)
 
 ## 📞 Contact
 For issues or support, open an Issue on GitHub or reach out via email.
